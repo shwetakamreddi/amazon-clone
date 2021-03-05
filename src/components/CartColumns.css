@@ -1,0 +1,7 @@
+.columns{
+    display: flex;
+    justify-content: space-between;
+    margin:20px;
+    text-transform: capitalize;
+    font-size: 1.2rem;
+}

@@ -1,0 +1,50 @@
+.detailWrapper{
+    display: flex;
+    margin: 30px;
+    padding:10px;
+    justify-content: space-around;
+}
+.detail_title{
+    text-align: center;
+    margin-top: 1rem;
+    letter-spacing: .1rem;
+}
+.left img {
+    height:500px;
+    width:400px;
+    border-radius: 10px;
+}
+.right{
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    justify-content: center;
+}
+.title{
+    font-size:1.5rem;
+    margin-bottom: 2rem;
+}
+
+h4{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 1.3rem;
+}
+.btn{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2rem;
+}
+.back-btn{
+    background: #f0d14b;
+    border:1px solid;
+    margin-top: 10px;
+    border-color: #a88734 #9c7e31 #846a29;
+    border-radius: 5px;
+    color:#111;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 1.3rem;
+    outline: none;
+}
